@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>sn_foobarbaz_flimmy</name>
+        <name>sn_foobarbaz_floombar</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-20 02:38:53</sys_created_on>
-        <sys_id>9a60dd457740001001fb4311a81061f6</sys_id>
+        <sys_created_on>2019-09-20 02:37:34</sys_created_on>
+        <sys_id>1cf15945b3800010d66e85d516a8dcd5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_foobarbaz_flimmy</sys_name>
+        <sys_name>sn_foobarbaz_floombar</sys_name>
         <sys_package display_value="foobarbaz" source="sn_foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_package>
         <sys_policy/>
         <sys_scope display_value="foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_scope>
-        <sys_update_name>ua_table_licensing_config_9a60dd457740001001fb4311a81061f6</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_1cf15945b3800010d66e85d516a8dcd5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-20 02:38:53</sys_updated_on>
+        <sys_updated_on>2019-09-20 02:37:34</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>

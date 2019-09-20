@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="System Import Sets" source="com.glide.system_import_set">9f40fc56ad333300cb03c521cbaac4b2</dependency>
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">69fedf56b3333300d66e85d516a8dcbd</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-09-20 02:38:53</sys_created_on>
-        <sys_id>da60dd457740001001fb4311a81061f5</sys_id>
+        <sys_id>2cf19945b3800010d66e85d516a8dc03</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_package display_value="foobarbaz" source="sn_foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_package>
         <sys_updated_by>admin</sys_updated_by>
