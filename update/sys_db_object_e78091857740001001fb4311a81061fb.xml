@@ -11,30 +11,30 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>Flimmy</label>
+        <label>jobros</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>sn_foobarbaz_flimmy</name>
+        <name>sn_foobarbaz_jobros</name>
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Import Set Row" name="sys_import_set_row">dc507096ad333300cb03c521cbaac4cd</super_class>
+        <super_class/>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-20 02:38:52</sys_created_on>
-        <sys_id>1f5a2df0b3000010d66e85d516a8dc0c</sys_id>
+        <sys_created_on>2019-09-20 19:24:31</sys_created_on>
+        <sys_id>e78091857740001001fb4311a81061fb</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Flimmy</sys_name>
+        <sys_name>jobros</sys_name>
         <sys_package display_value="foobarbaz" source="sn_foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_package>
         <sys_policy/>
         <sys_scope display_value="foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_scope>
-        <sys_update_name>sys_db_object_1f5a2df0b3000010d66e85d516a8dc0c</sys_update_name>
+        <sys_update_name>sys_db_object_e78091857740001001fb4311a81061fb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-20 02:38:52</sys_updated_on>
+        <sys_updated_on>2019-09-20 19:24:31</sys_updated_on>
         <update_access>false</update_access>
-        <user_role display_value="sn_foobarbaz.flimmy_user" name="sn_foobarbaz.flimmy_user">436a2df0b3000010d66e85d516a8dc66</user_role>
+        <user_role display_value="sn_foobarbaz.jobros_user" name="sn_foobarbaz.jobros_user">d29059857740001001fb4311a8106181</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
 </record_update>

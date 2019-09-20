@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="Floombar" language="en" table="sn_foobarbaz_floombar">
+    <sys_documentation element="" label="jobros" language="en" table="sn_foobarbaz_jobros">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Floombar</label>
+            <label>jobros</label>
             <language>en</language>
-            <name>sn_foobarbaz_floombar</name>
-            <plural>Floombars</plural>
+            <name>sn_foobarbaz_jobros</name>
+            <plural>jobros</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-09-20 02:37:33</sys_created_on>
-            <sys_id>0a60dd457740001001fb4311a81061de</sys_id>
+            <sys_created_on>2019-09-20 19:24:32</sys_created_on>
+            <sys_id>6e909d857740001001fb4311a8106135</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Floombar</sys_name>
+            <sys_name>jobros</sys_name>
             <sys_package display_value="foobarbaz" source="sn_foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_package>
             <sys_policy/>
             <sys_scope display_value="foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_scope>
-            <sys_update_name>sys_documentation_sn_foobarbaz_floombar__en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_foobarbaz_jobros__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-09-20 02:37:33</sys_updated_on>
+            <sys_updated_on>2019-09-20 19:24:32</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

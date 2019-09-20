@@ -2,23 +2,23 @@
     <sys_ui_application action="INSERT_OR_UPDATE">
         <active>true</active>
         <hint/>
-        <name>Floombar</name>
-        <order>1</order>
-        <roles>sn_foobarbaz.floombar_user</roles>
+        <name>jobros</name>
+        <order/>
+        <roles>sn_foobarbaz.jobros_user</roles>
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-20 02:37:32</sys_created_on>
+        <sys_created_on>2019-09-20 19:24:32</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>271a29f0b3000010d66e85d516a8dc71</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Floombar</sys_name>
+        <sys_id>2a905d857740001001fb4311a81061ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jobros</sys_name>
         <sys_overrides/>
         <sys_package display_value="foobarbaz" source="sn_foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_package>
         <sys_policy/>
         <sys_scope display_value="foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_scope>
-        <sys_update_name>sys_ui_application_271a29f0b3000010d66e85d516a8dc71</sys_update_name>
+        <sys_update_name>sys_ui_application_2a905d857740001001fb4311a81061ed</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-20 19:25:03</sys_updated_on>
+        <sys_updated_on>2019-09-20 19:24:32</sys_updated_on>
     </sys_ui_application>
 </record_update>

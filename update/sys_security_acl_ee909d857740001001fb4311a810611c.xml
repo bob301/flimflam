@@ -4,22 +4,22 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on sn_foobarbaz_floombar</description>
-        <name>sn_foobarbaz_floombar</name>
-        <operation display_value="read">read</operation>
+        <description>Default access control on sn_foobarbaz_jobros</description>
+        <name>sn_foobarbaz_jobros</name>
+        <operation display_value="delete">delete</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-09-20 02:37:32</sys_created_on>
-        <sys_id>af1a29f0b3000010d66e85d516a8dcb0</sys_id>
+        <sys_created_on>2019-09-20 19:24:32</sys_created_on>
+        <sys_id>ee909d857740001001fb4311a810611c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>sn_foobarbaz_floombar</sys_name>
+        <sys_name>sn_foobarbaz_jobros</sys_name>
         <sys_package display_value="foobarbaz" source="sn_foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_package>
         <sys_policy/>
         <sys_scope display_value="foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_scope>
-        <sys_update_name>sys_security_acl_af1a29f0b3000010d66e85d516a8dcb0</sys_update_name>
+        <sys_update_name>sys_security_acl_ee909d857740001001fb4311a810611c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-09-20 02:37:32</sys_updated_on>
+        <sys_updated_on>2019-09-20 19:24:32</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
