@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-20 02:37:33</sys_created_on>
+        <sys_id>6f1a29f0b3000010d66e85d516a8dcd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_foobarbaz_floombar.sn_foobarbaz.floombar_user</sys_name>
+        <sys_package display_value="foobarbaz" source="sn_foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="foobarbaz">4952798eb32f3300d66e85d516a8dcfb</sys_scope>
+        <sys_security_acl display_value="sn_foobarbaz_floombar">231a29f0b3000010d66e85d516a8dcd5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_6f1a29f0b3000010d66e85d516a8dcd7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-20 02:37:33</sys_updated_on>
+        <sys_user_role display_value="sn_foobarbaz.floombar_user" name="sn_foobarbaz.floombar_user">cb1ae5f0b3000010d66e85d516a8dc35</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
